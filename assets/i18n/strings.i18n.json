@@ -1,0 +1,79 @@
+{
+  "name": "Flutter Weather",
+  "splash": {
+    "button_title": "Begin"
+  },
+  "city_search": {
+    "title": "Search for city",
+    "input_hint": "Enter city name",
+    "location_button_hint": "Use my location",
+    "no_data": "No cities found"
+  },
+  "drawer": {
+    "cities_section_title": "Cities",
+    "city_add_button_hint": "Add city",
+    "about_section_title": "About Flutter Weather"
+  },
+  "home": {
+    "no_data": "You have no saved cities!",
+    "no_data_button": "Select city",
+    "tomorrow": "Tomorrow",
+    "next_days": "Next $count days"
+  },
+  "weather": {
+    "today_date": "Today, $date",
+    "tomorrow_date": "Tomorrow, $date",
+    "max": "MAX",
+    "min": "MIN",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "details": "Details",
+    "detail_items": {
+      "pressure": "Pressure",
+      "humidity": "Humidity",
+      "cloudiness": "Cloudiness",
+      "clouds": "Clouds",
+      "wind": "Wind",
+      "windspeed": "Windspeed",
+      "pop": "Pop",
+      "rain": "Rain",
+      "snow": "Snow",
+      "uvi": "UV Index"
+    },
+    "uv_name": {
+      "low": "Low",
+      "moderate": "Moderate",
+      "high": "High",
+      "very_high": "Very High",
+      "extreme": "Extreme"
+    },
+    "status_name": {
+      "unknown": "Unknown",
+      "clouds": "Clouds",
+      "dust": "Dust",
+      "overcast": "Overcast",
+      "rain": "Rain",
+      "drizzle": "Drizzle",
+      "sleet": "Sleet",
+      "snow": "Snow",
+      "clear": "Clear",
+      "thunderstorm": "Thunderstorm"
+    },
+    "status_description": {
+      "unknown": "Unknown",
+      "clouds": "Cloudy",
+      "dust": "Dusty",
+      "overcast": "Overcast",
+      "rain": "Rainy",
+      "drizzle": "Drizzle",
+      "sleet": "Sleet",
+      "snow": "Snowy",
+      "clear": "Sunny",
+      "thunderstorm": "Thunderstorm"
+    }
+  },
+  "error": {
+    "title": "An error occurred :(",
+    "button": "Try again"
+  }
+}
